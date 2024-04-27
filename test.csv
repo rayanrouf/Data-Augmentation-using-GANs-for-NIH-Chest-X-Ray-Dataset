@@ -1,0 +1,723 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImageWidth,OriginalImageHeight,OriginalImagePixelSpacing_x,OriginalImagePixelSpacing_y,path,Atelectasis,Cardiomegaly,Consolidation,Edema,Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,No Finding,Nodule,Pleural_Thickening,Pneumonia,Pneumothorax
+00013111_065.png,Emphysema,65,13111,021Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013111_065.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008056_009.png,No Finding,9,8056,056Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008056_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00006968_004.png,Atelectasis,4,6968,068Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00006968_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025303_037.png,Infiltration|Mass,37,25303,067Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00025303_037.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00020294_010.png,No Finding,10,20294,061Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020294_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020979_007.png,Atelectasis,7,20979,045Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020979_007.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020978_008.png,No Finding,8,20978,053Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020978_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008309_003.png,No Finding,3,8309,041Y,F,PA,2674,2781,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008309_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022457_003.png,Cardiomegaly|Effusion,3,22457,069Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00022457_003.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011632_003.png,Edema,3,11632,057Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011632_003.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004188_011.png,Consolidation|Pleural_Thickening,11,4188,069Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004188_011.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00026652_001.png,Atelectasis|Nodule,1,26652,037Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026652_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00020438_017.png,No Finding,17,20438,025Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00020438_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00025849_037.png,Infiltration,37,25849,058Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025849_037.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002317_000.png,No Finding,0,2317,070Y,M,PA,2918,2669,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002317_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021595_000.png,No Finding,0,21595,060Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021595_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011391_013.png,Infiltration,13,11391,039Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011391_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022729_001.png,Infiltration,1,22729,043Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022729_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026120_001.png,Infiltration|Nodule,1,26120,067Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026120_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00030079_033.png,No Finding,33,30079,016Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030079_033.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018855_001.png,No Finding,1,18855,054Y,M,PA,2850,2847,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018855_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015045_018.png,Consolidation,18,15045,029Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015045_018.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025958_001.png,Consolidation,1,25958,005Y,F,AP,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025958_001.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022668_000.png,Pneumothorax,0,22668,029Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022668_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00019176_005.png,Nodule,5,19176,067Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019176_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00006413_002.png,Mass,2,6413,034Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006413_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00013374_000.png,Infiltration,0,13374,076Y,F,PA,2642,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013374_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025798_000.png,Infiltration,0,25798,042Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025798_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00029394_000.png,No Finding,0,29394,024Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029394_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009189_007.png,No Finding,7,9189,068Y,F,PA,2482,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009189_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018319_003.png,Infiltration,3,18319,008Y,M,AP,2504,2264,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00018319_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030183_004.png,Mass|Pneumothorax,4,30183,049Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030183_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+00004962_000.png,No Finding,0,4962,027Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004962_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00006996_004.png,Atelectasis|Effusion|Infiltration,4,6996,045Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006996_004.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020679_000.png,No Finding,0,20679,069Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020679_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015985_000.png,Effusion|Mass|Nodule|Pleural_Thickening,0,15985,071Y,F,PA,2822,2789,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015985_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+00022539_000.png,Atelectasis,0,22539,075Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022539_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030430_000.png,Infiltration,0,30430,021Y,F,PA,1794,1940,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030430_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015032_002.png,Infiltration,2,15032,026Y,M,PA,2572,2819,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015032_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015700_021.png,No Finding,21,15700,044Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015700_021.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001775_001.png,Effusion,1,1775,048Y,F,PA,2506,2537,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00001775_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015770_035.png,Consolidation,35,15770,066Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015770_035.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020186_000.png,Infiltration,0,20186,059Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00020186_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022726_009.png,Pneumothorax,9,22726,045Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022726_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00030695_002.png,Atelectasis,2,30695,052Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030695_002.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018650_000.png,Mass,0,18650,074Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018650_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00000175_001.png,Atelectasis,1,175,060Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00000175_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019238_019.png,Pleural_Thickening,19,19238,070Y,M,PA,2806,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019238_019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00009717_001.png,No Finding,1,9717,049Y,M,PA,2542,2337,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009717_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020213_009.png,Effusion|Infiltration,9,20213,072Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020213_009.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016895_002.png,Infiltration|Pleural_Thickening,2,16895,061Y,M,PA,2838,2989,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016895_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+00026777_000.png,No Finding,0,26777,043Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026777_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009845_055.png,Effusion,55,9845,058Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009845_055.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021024_001.png,Fibrosis,1,21024,024Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021024_001.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012238_002.png,Atelectasis|Fibrosis,2,12238,063Y,M,PA,2718,2641,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012238_002.png,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010049_001.png,No Finding,1,10049,032Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010049_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016014_015.png,Infiltration,15,16014,065Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016014_015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018091_020.png,Atelectasis|Effusion|Infiltration,20,18091,041Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018091_020.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002678_007.png,No Finding,7,2678,051Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002678_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017634_000.png,No Finding,0,17634,031Y,F,PA,2602,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017634_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021609_002.png,No Finding,2,21609,079Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021609_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003011_001.png,No Finding,1,3011,041Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00003011_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016142_027.png,Infiltration,27,16142,016Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016142_027.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000099_006.png,No Finding,6,99,058Y,F,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000099_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019663_004.png,Atelectasis|Effusion,4,19663,075Y,F,PA,2446,2372,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019663_004.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019289_000.png,Cardiomegaly|Effusion,0,19289,061Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019289_000.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010583_016.png,Effusion|Fibrosis,16,10583,057Y,M,PA,2992,2985,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010583_016.png,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017830_002.png,Effusion,2,17830,052Y,M,PA,2914,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017830_002.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017417_000.png,Cardiomegaly,0,17417,053Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017417_000.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011396_001.png,No Finding,1,11396,040Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011396_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030218_001.png,No Finding,1,30218,049Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030218_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013756_000.png,No Finding,0,13756,047Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013756_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004461_015.png,Effusion,15,4461,039Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00004461_015.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020437_003.png,Nodule|Pneumothorax,3,20437,056Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020437_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+00027028_008.png,Effusion|Infiltration,8,27028,058Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027028_008.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008195_000.png,Effusion|Pleural_Thickening,0,8195,055Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008195_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00013951_002.png,No Finding,2,13951,064Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013951_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026738_007.png,Edema|Infiltration,7,26738,045Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026738_007.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020286_004.png,Pneumothorax,4,20286,066Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00020286_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00019895_003.png,Mass,3,19895,005Y,M,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019895_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00019336_000.png,Infiltration,0,19336,030Y,F,PA,2990,2638,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019336_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004925_003.png,No Finding,3,4925,055Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004925_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017798_000.png,No Finding,0,17798,024Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017798_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013249_043.png,Cardiomegaly|Infiltration,43,13249,015Y,M,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013249_043.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015799_007.png,Edema,7,15799,068Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015799_007.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011678_000.png,Atelectasis,0,11678,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011678_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00029597_007.png,Cardiomegaly|Consolidation|Infiltration,7,29597,070Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00029597_007.png,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027045_002.png,Edema,2,27045,060Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027045_002.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026810_011.png,Infiltration,11,26810,055Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026810_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027211_000.png,Cardiomegaly|Effusion|Pleural_Thickening,0,27211,082Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027211_000.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00016715_004.png,Infiltration|Nodule,4,16715,061Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016715_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00013844_000.png,Infiltration,0,13844,041Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013844_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008357_000.png,Infiltration,0,8357,047Y,F,PA,3056,2488,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00008357_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016601_001.png,Infiltration,1,16601,006Y,M,PA,2326,2277,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016601_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001373_009.png,Cardiomegaly,9,1373,058Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001373_009.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007093_006.png,Nodule,6,7093,070Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007093_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00026683_004.png,Pneumothorax,4,26683,050Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026683_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00014130_001.png,Atelectasis|Infiltration,1,14130,053Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014130_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017835_004.png,No Finding,4,17835,047Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017835_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002798_001.png,No Finding,1,2798,069Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002798_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016995_000.png,No Finding,0,16995,066Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016995_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020405_003.png,Infiltration,3,20405,048Y,M,PA,2698,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020405_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000981_002.png,Pleural_Thickening,2,981,063Y,M,PA,3056,2508,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00000981_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00017771_000.png,No Finding,0,17771,032Y,F,PA,2992,2989,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017771_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016124_003.png,Infiltration,3,16124,046Y,F,PA,2500,2836,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016124_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014398_017.png,Consolidation,17,14398,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014398_017.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006338_002.png,Mass,2,6338,053Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006338_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00019271_013.png,Atelectasis|Infiltration,13,19271,054Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019271_013.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003995_000.png,Effusion,0,3995,040Y,F,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003995_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027285_002.png,Atelectasis,2,27285,049Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027285_002.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030097_000.png,Infiltration,0,30097,061Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030097_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020408_014.png,Atelectasis|Consolidation|Infiltration|Pneumonia,14,20408,045Y,M,AP,2348,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020408_014.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+00023078_007.png,Emphysema,7,23078,064Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00023078_007.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004381_015.png,Cardiomegaly|Effusion,15,4381,029Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00004381_015.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006296_012.png,Edema|Infiltration,12,6296,015Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006296_012.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000459_004.png,No Finding,4,459,056Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00000459_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017240_000.png,Effusion|Infiltration,0,17240,011Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017240_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013708_001.png,Effusion,1,13708,057Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013708_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027320_011.png,Effusion|Infiltration,11,27320,052Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027320_011.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010828_032.png,Consolidation,32,10828,045Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010828_032.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005094_003.png,Infiltration,3,5094,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00005094_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028522_000.png,No Finding,0,28522,053Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028522_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004659_000.png,Edema,0,4659,035Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004659_000.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008426_001.png,No Finding,1,8426,056Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008426_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009386_006.png,Effusion,6,9386,031Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009386_006.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019912_000.png,Infiltration,0,19912,074Y,M,PA,2838,2877,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019912_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002552_000.png,No Finding,0,2552,038Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002552_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010772_007.png,Effusion,7,10772,070Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010772_007.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003294_000.png,No Finding,0,3294,049Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003294_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013917_049.png,Effusion|Mass,49,13917,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013917_049.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00029401_002.png,Effusion,2,29401,064Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029401_002.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022707_004.png,No Finding,4,22707,045Y,F,PA,2446,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022707_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010790_007.png,Atelectasis|Infiltration,7,10790,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010790_007.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011723_013.png,No Finding,13,11723,065Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011723_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00006338_003.png,Nodule,3,6338,053Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006338_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00030176_000.png,Atelectasis|Effusion|Infiltration,0,30176,054Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030176_000.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010284_000.png,Nodule,0,10284,032Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010284_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00026068_000.png,Mass,0,26068,067Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026068_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00026925_003.png,Infiltration,3,26925,038Y,F,AP,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026925_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017258_019.png,Effusion|Infiltration,19,17258,022Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017258_019.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016251_000.png,Mass,0,16251,059Y,F,PA,2590,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016251_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00017515_005.png,Atelectasis|Effusion|Emphysema,5,17515,042Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017515_005.png,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027073_000.png,No Finding,0,27073,007Y,F,PA,2378,2153,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027073_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00029809_005.png,No Finding,5,29809,063Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00029809_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00029380_000.png,Infiltration,0,29380,043Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00029380_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028545_002.png,Nodule,2,28545,054Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028545_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00026793_004.png,Emphysema|Pneumothorax,4,26793,063Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026793_004.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00012094_022.png,Infiltration|Pneumothorax,22,12094,063Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012094_022.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00006011_003.png,No Finding,3,6011,041Y,M,PA,2690,2581,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00006011_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026625_005.png,No Finding,5,26625,053Y,F,PA,2598,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026625_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013397_000.png,No Finding,0,13397,057Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013397_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011470_009.png,Edema|Effusion,9,11470,045Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011470_009.png,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023309_016.png,Consolidation|Edema|Infiltration,16,23309,067Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00023309_016.png,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008701_035.png,Infiltration|Nodule,35,8701,046Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008701_035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00002412_000.png,Edema,0,2412,062Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002412_000.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022526_006.png,Pleural_Thickening,6,22526,050Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022526_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00019565_000.png,Infiltration,0,19565,041Y,F,PA,2906,2716,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019565_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016481_003.png,Mass,3,16481,054Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016481_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00018312_009.png,Infiltration,9,18312,075Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018312_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010695_007.png,Emphysema|Nodule|Pneumothorax,7,10695,025Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010695_007.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+00020565_000.png,Infiltration,0,20565,052Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020565_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008451_016.png,Infiltration|Mass,16,8451,058Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00008451_016.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00017709_012.png,Infiltration,12,17709,027Y,M,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017709_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019513_000.png,No Finding,0,19513,055Y,F,PA,2512,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019513_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009925_012.png,Atelectasis|Edema|Effusion|Infiltration|Pneumonia,12,9925,056Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009925_012.png,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+00017243_000.png,Mass|Pneumothorax,0,17243,014Y,F,PA,2992,2965,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017243_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+00025485_000.png,Pleural_Thickening,0,25485,046Y,F,PA,2694,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00025485_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00012082_001.png,Infiltration,1,12082,010Y,M,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00012082_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027872_000.png,No Finding,0,27872,040Y,F,PA,2268,2507,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027872_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026702_000.png,Consolidation|Infiltration,0,26702,044Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026702_000.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018253_063.png,Infiltration,63,18253,071Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00018253_063.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000250_005.png,Infiltration,5,250,050Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000250_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000248_020.png,Atelectasis|Infiltration|Mass|Pleural_Thickening,20,248,087Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000248_020.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+00006903_001.png,Nodule,1,6903,035Y,F,PA,2518,2418,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00006903_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00009796_000.png,Mass,0,9796,051Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009796_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00013615_042.png,Consolidation,42,13615,010Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013615_042.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008727_013.png,Atelectasis,13,8727,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008727_013.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027229_000.png,Atelectasis,0,27229,073Y,M,PA,2810,2981,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027229_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028974_000.png,Atelectasis|Effusion,0,28974,076Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028974_000.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006024_010.png,Emphysema,10,6024,061Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00006024_010.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009067_005.png,No Finding,5,9067,072Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009067_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018541_001.png,No Finding,1,18541,052Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018541_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019293_000.png,No Finding,0,19293,012Y,F,PA,2586,2509,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019293_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030635_002.png,Effusion|Pneumothorax,2,30635,051Y,F,PA,2021,2020,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030635_002.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00006973_002.png,Atelectasis|Effusion,2,6973,062Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006973_002.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003459_023.png,No Finding,23,3459,052Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003459_023.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004717_000.png,Atelectasis,0,4717,051Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004717_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009358_004.png,No Finding,4,9358,062Y,F,PA,2466,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009358_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00025445_000.png,Consolidation,0,25445,062Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025445_000.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018187_060.png,Infiltration,60,18187,032Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018187_060.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020299_000.png,No Finding,0,20299,039Y,F,PA,2558,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020299_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011136_020.png,Atelectasis|Cardiomegaly|Effusion,20,11136,028Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011136_020.png,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028039_000.png,Infiltration,0,28039,045Y,F,PA,2154,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00028039_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013209_013.png,Pneumothorax,13,13209,074Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013209_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00010695_013.png,Pneumothorax,13,10695,028Y,F,PA,2914,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010695_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00012659_004.png,No Finding,4,12659,058Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012659_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003446_000.png,Atelectasis,0,3446,049Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003446_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008888_047.png,Consolidation|Effusion|Infiltration,47,8888,057Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008888_047.png,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027128_001.png,No Finding,1,27128,038Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027128_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009932_001.png,Edema,1,9932,021Y,M,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009932_001.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023269_003.png,Atelectasis,3,23269,021Y,M,PA,2882,2762,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00023269_003.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020113_018.png,Atelectasis|Effusion,18,20113,038Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020113_018.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013625_034.png,Infiltration,34,13625,066Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013625_034.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012635_012.png,Infiltration,12,12635,065Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012635_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008004_009.png,Atelectasis|Mass,9,8004,053Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008004_009.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00002371_007.png,Atelectasis|Nodule,7,2371,037Y,M,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002371_007.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00019242_020.png,Pleural_Thickening,20,19242,031Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019242_020.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00002739_001.png,Fibrosis,1,2739,032Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002739_001.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013582_000.png,Fibrosis,0,13582,027Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013582_000.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000508_000.png,Consolidation|Fibrosis,0,508,022Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000508_000.png,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015606_039.png,Pneumothorax,39,15606,018Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015606_039.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00012089_010.png,No Finding,10,12089,040Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012089_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022785_004.png,Infiltration,4,22785,030Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022785_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023309_007.png,Mass,7,23309,067Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00023309_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00022310_008.png,Atelectasis|Infiltration,8,22310,075Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022310_008.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010805_018.png,Consolidation|Effusion,18,10805,007Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010805_018.png,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008468_065.png,Emphysema|Pneumothorax,65,8468,011Y,F,PA,2294,2425,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008468_065.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00004065_008.png,Fibrosis|Infiltration,8,4065,041Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004065_008.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004344_042.png,No Finding,42,4344,048Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004344_042.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013073_005.png,Infiltration,5,13073,068Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013073_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020373_004.png,Effusion,4,20373,028Y,M,PA,3056,2492,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020373_004.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027213_029.png,No Finding,29,27213,073Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027213_029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00024964_000.png,Infiltration,0,24964,029Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00024964_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010634_004.png,No Finding,4,10634,045Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010634_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030384_000.png,No Finding,0,30384,027Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030384_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005171_000.png,No Finding,0,5171,033Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005171_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00028082_000.png,No Finding,0,28082,029Y,F,PA,2020,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00028082_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00000084_000.png,Effusion,0,84,057Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00000084_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023791_001.png,No Finding,1,23791,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00023791_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019308_013.png,Infiltration,13,19308,061Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019308_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008865_000.png,No Finding,0,8865,082Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008865_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005750_000.png,No Finding,0,5750,021Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005750_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012628_016.png,No Finding,16,12628,051Y,F,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012628_016.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010773_013.png,No Finding,13,10773,054Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010773_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018451_000.png,Nodule,0,18451,052Y,F,PA,2718,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018451_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00001278_012.png,No Finding,12,1278,054Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001278_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017138_022.png,Cardiomegaly|Effusion|Infiltration,22,17138,023Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017138_022.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026127_004.png,No Finding,4,26127,072Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026127_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030146_002.png,Infiltration,2,30146,059Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030146_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028774_031.png,Atelectasis|Consolidation|Infiltration,31,28774,068Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028774_031.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016786_005.png,Infiltration|Pneumonia,5,16786,023Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00016786_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+00009892_049.png,No Finding,49,9892,062Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009892_049.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009305_000.png,Infiltration,0,9305,050Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009305_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010270_006.png,Pneumothorax,6,10270,017Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010270_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00022914_003.png,Fibrosis,3,22914,037Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022914_003.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015031_009.png,Effusion|Fibrosis|Infiltration|Nodule,9,15031,040Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015031_009.png,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00008554_010.png,Atelectasis|Effusion|Mass,10,8554,073Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008554_010.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00030636_012.png,Consolidation,12,30636,046Y,M,PA,2020,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030636_012.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000861_002.png,Atelectasis|Consolidation|Effusion,2,861,062Y,F,PA,2992,2977,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000861_002.png,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005994_000.png,No Finding,0,5994,069Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00005994_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007992_002.png,No Finding,2,7992,019Y,M,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007992_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016926_003.png,Cardiomegaly,3,16926,063Y,F,PA,2750,2885,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016926_003.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007589_001.png,No Finding,1,7589,059Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007589_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00027278_006.png,Effusion|Emphysema|Pneumothorax,6,27278,055Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027278_006.png,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00010007_157.png,Consolidation,157,10007,059Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010007_157.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016972_004.png,Consolidation,4,16972,043Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016972_004.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027427_011.png,No Finding,11,27427,056Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027427_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011424_006.png,No Finding,6,11424,063Y,F,PA,2562,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011424_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015647_003.png,Effusion,3,15647,042Y,F,PA,2454,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015647_003.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020159_001.png,Infiltration,1,20159,052Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00020159_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011749_000.png,Cardiomegaly,0,11749,044Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011749_000.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011355_012.png,Pneumothorax,12,11355,034Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00011355_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00003292_009.png,Atelectasis|Consolidation,9,3292,061Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003292_009.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007716_003.png,Mass,3,7716,034Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007716_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00008888_050.png,Effusion,50,8888,057Y,F,PA,2818,2985,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008888_050.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002066_014.png,Nodule,14,2066,080Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002066_014.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00014140_004.png,No Finding,4,14140,046Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014140_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022893_000.png,No Finding,0,22893,030Y,F,PA,2992,2833,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022893_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021835_027.png,Infiltration,27,21835,039Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021835_027.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003717_001.png,No Finding,1,3717,051Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00003717_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003758_002.png,Infiltration,2,3758,029Y,F,PA,2434,2290,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00003758_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002395_007.png,Effusion,7,2395,062Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002395_007.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022727_000.png,Consolidation|Pleural_Thickening,0,22727,054Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022727_000.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00004006_053.png,Infiltration,53,4006,036Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004006_053.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019464_004.png,Effusion|Pleural_Thickening,4,19464,040Y,F,PA,1775,2022,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00019464_004.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00010352_035.png,Atelectasis,35,10352,031Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010352_035.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016574_001.png,Effusion,1,16574,064Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016574_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011387_000.png,No Finding,0,11387,032Y,F,PA,2586,2513,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011387_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015370_004.png,No Finding,4,15370,041Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015370_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001075_003.png,Mass|Pleural_Thickening,3,1075,059Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00001075_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+00004893_036.png,Atelectasis,36,4893,030Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004893_036.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014750_000.png,No Finding,0,14750,051Y,M,PA,2992,2965,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014750_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00028795_007.png,Effusion|Infiltration,7,28795,044Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028795_007.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007816_007.png,Infiltration,7,7816,065Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00007816_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023916_000.png,Infiltration,0,23916,021Y,F,PA,2582,2585,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00023916_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025977_007.png,No Finding,7,25977,052Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025977_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011752_016.png,Effusion|Emphysema,16,11752,035Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011752_016.png,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012159_003.png,No Finding,3,12159,011Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012159_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030167_001.png,Consolidation,1,30167,056Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030167_001.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007007_001.png,Consolidation,1,7007,045Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007007_001.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019617_001.png,No Finding,1,19617,054Y,F,PA,2710,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019617_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011683_038.png,Atelectasis|Infiltration|Pneumothorax,38,11683,060Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011683_038.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00008009_040.png,No Finding,40,8009,019Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008009_040.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012294_010.png,Effusion|Pleural_Thickening,10,12294,037Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012294_010.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00007078_002.png,Effusion,2,7078,035Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007078_002.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005966_010.png,No Finding,10,5966,052Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00005966_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010805_015.png,Infiltration,15,10805,007Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010805_015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00029431_003.png,Emphysema,3,29431,065Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00029431_003.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012648_004.png,Emphysema|Mass|Pneumothorax,4,12648,037Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012648_004.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+00020918_000.png,Effusion,0,20918,070Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020918_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000938_004.png,Atelectasis|Effusion|Infiltration,4,938,058Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00000938_004.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017643_003.png,Atelectasis,3,17643,089Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017643_003.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020052_003.png,Infiltration,3,20052,051Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020052_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022883_006.png,Effusion,6,22883,067Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022883_006.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007679_010.png,Pleural_Thickening,10,7679,061Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007679_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00027235_000.png,No Finding,0,27235,037Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027235_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019395_011.png,Consolidation,11,19395,033Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019395_011.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000099_003.png,Effusion,3,99,056Y,F,PA,2830,2801,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000099_003.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018259_004.png,No Finding,4,18259,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018259_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008008_065.png,Mass|Nodule|Pleural_Thickening,65,8008,026Y,F,PA,2730,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008008_065.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+00028142_000.png,Infiltration,0,28142,067Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028142_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018983_002.png,No Finding,2,18983,050Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018983_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001187_002.png,Mass,2,1187,067Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001187_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00016861_007.png,No Finding,7,16861,058Y,M,PA,2992,2741,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016861_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00029678_001.png,Atelectasis|Nodule,1,29678,067Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029678_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00027311_001.png,Consolidation|Edema,1,27311,040Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027311_001.png,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022357_001.png,Infiltration|Mass,1,22357,068Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022357_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00016134_002.png,No Finding,2,16134,043Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016134_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021582_010.png,No Finding,10,21582,072Y,F,PA,2614,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021582_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007124_000.png,No Finding,0,7124,046Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007124_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001249_002.png,Edema,2,1249,040Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001249_002.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016240_001.png,Infiltration,1,16240,057Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00016240_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019766_001.png,Infiltration,1,19766,037Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019766_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001581_001.png,No Finding,1,1581,057Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001581_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011375_000.png,No Finding,0,11375,037Y,F,PA,2710,2821,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011375_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018120_001.png,Atelectasis|Hernia,1,18120,067Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018120_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022720_003.png,Effusion|Infiltration,3,22720,017Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022720_003.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00029636_000.png,No Finding,0,29636,067Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029636_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015732_038.png,Infiltration,38,15732,048Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015732_038.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027621_000.png,Nodule,0,27621,057Y,M,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027621_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00026179_003.png,Pneumonia,3,26179,026Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026179_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+00015070_003.png,No Finding,3,15070,027Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015070_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012709_000.png,Pleural_Thickening,0,12709,060Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012709_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00022416_068.png,Effusion,68,22416,052Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022416_068.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009633_000.png,Effusion,0,9633,040Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009633_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016522_016.png,Consolidation|Infiltration|Mass,16,16522,028Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016522_016.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00006769_010.png,Infiltration|Pleural_Thickening|Pneumothorax,10,6769,055Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00006769_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+00008748_006.png,Pneumothorax,6,8748,046Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008748_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00000627_017.png,No Finding,17,627,058Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000627_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011110_000.png,No Finding,0,11110,046Y,M,PA,2782,2889,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011110_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019176_062.png,Infiltration,62,19176,066Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019176_062.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030062_000.png,No Finding,0,30062,024Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030062_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013685_040.png,Infiltration|Pneumothorax,40,13685,049Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013685_040.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00002345_000.png,Nodule,0,2345,056Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00002345_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00011993_000.png,Nodule,0,11993,082Y,F,PA,2646,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011993_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00016122_005.png,Emphysema,5,16122,049Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016122_005.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000030_001.png,Atelectasis,1,30,079Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000030_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022245_003.png,Atelectasis,3,22245,067Y,M,PA,2770,2862,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022245_003.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011104_004.png,Infiltration|Nodule|Pneumonia,4,11104,060Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011104_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+00000649_000.png,Pleural_Thickening,0,649,058Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000649_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00001984_011.png,Infiltration,11,1984,064Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00001984_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006446_004.png,Nodule,4,6446,067Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006446_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00021674_000.png,Infiltration,0,21674,021Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021674_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013992_018.png,Cardiomegaly|Infiltration,18,13992,060Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013992_018.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013922_029.png,No Finding,29,13922,053Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00013922_029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00025480_000.png,Infiltration,0,25480,071Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00025480_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026336_001.png,Fibrosis|Pleural_Thickening,1,26336,051Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026336_001.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00004592_000.png,Mass,0,4592,049Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004592_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00020966_000.png,Atelectasis,0,20966,052Y,M,PA,2930,2961,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020966_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008885_009.png,Atelectasis|Effusion,9,8885,071Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008885_009.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007442_016.png,Infiltration,16,7442,035Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007442_016.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008067_026.png,Consolidation|Infiltration,26,8067,044Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008067_026.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022416_039.png,Atelectasis|Effusion|Infiltration,39,22416,052Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022416_039.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001173_000.png,No Finding,0,1173,032Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001173_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019753_000.png,No Finding,0,19753,040Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019753_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004948_001.png,No Finding,1,4948,018Y,M,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004948_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003343_000.png,No Finding,0,3343,044Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00003343_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00025380_000.png,No Finding,0,25380,032Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025380_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00006925_004.png,Nodule,4,6925,044Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00006925_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00025181_006.png,Infiltration,6,25181,054Y,M,PA,2874,2550,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00025181_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006391_000.png,Infiltration,0,6391,009Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006391_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003770_002.png,No Finding,2,3770,063Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00003770_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010775_004.png,Nodule,4,10775,036Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010775_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00009574_024.png,Atelectasis|Consolidation|Effusion|Infiltration,24,9574,056Y,M,PA,2992,2913,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009574_024.png,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004069_002.png,No Finding,2,4069,044Y,F,PA,1950,1790,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00004069_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014849_004.png,Emphysema,4,14849,058Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014849_004.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030346_001.png,Atelectasis|Consolidation,1,30346,064Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030346_001.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023315_000.png,Atelectasis,0,23315,027Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00023315_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009959_006.png,Pneumothorax,6,9959,054Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00009959_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00015732_026.png,Effusion,26,15732,048Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015732_026.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018748_000.png,Mass,0,18748,057Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018748_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00015758_000.png,Atelectasis,0,15758,050Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015758_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015973_000.png,No Finding,0,15973,042Y,F,PA,2138,2681,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015973_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010815_021.png,Nodule,21,10815,067Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010815_021.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00022416_002.png,Atelectasis|Effusion,2,22416,051Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022416_002.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012993_015.png,Effusion,15,12993,034Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012993_015.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027726_004.png,Atelectasis|Infiltration,4,27726,058Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027726_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004840_000.png,Mass,0,4840,067Y,M,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004840_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00001301_036.png,Atelectasis|Consolidation|Effusion,36,1301,057Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001301_036.png,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030635_007.png,Atelectasis|Effusion|Infiltration,7,30635,050Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030635_007.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020781_005.png,Effusion,5,20781,024Y,M,PA,2502,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020781_005.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025561_009.png,No Finding,9,25561,051Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025561_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008724_000.png,No Finding,0,8724,077Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008724_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012011_000.png,No Finding,0,12011,003Y,F,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012011_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007304_002.png,Infiltration,2,7304,040Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00007304_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013844_004.png,Atelectasis,4,13844,037Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013844_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013608_011.png,Effusion,11,13608,016Y,M,PA,2774,2449,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013608_011.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004402_006.png,Atelectasis|Infiltration,6,4402,070Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00004402_006.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018627_011.png,Pleural_Thickening,11,18627,056Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018627_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00016589_005.png,No Finding,5,16589,028Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016589_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00006372_002.png,Infiltration,2,6372,045Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00006372_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027213_067.png,Infiltration,67,27213,073Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027213_067.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020476_003.png,No Finding,3,20476,025Y,F,PA,2398,2661,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020476_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011237_017.png,No Finding,17,11237,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011237_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017108_003.png,No Finding,3,17108,065Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017108_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010092_027.png,Atelectasis|Emphysema|Infiltration|Pneumothorax,27,10092,049Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010092_027.png,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00015192_002.png,Pleural_Thickening,2,15192,037Y,F,PA,2766,2901,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015192_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00012863_001.png,Effusion,1,12863,039Y,F,PA,2992,2969,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012863_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015995_000.png,No Finding,0,15995,061Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015995_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019113_000.png,Infiltration,0,19113,049Y,M,PA,2658,2641,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019113_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015375_004.png,Pleural_Thickening,4,15375,075Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015375_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00020408_037.png,Atelectasis|Effusion,37,20408,045Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020408_037.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016842_003.png,No Finding,3,16842,047Y,M,PA,2726,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016842_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00009138_000.png,Mass|Pleural_Thickening,0,9138,068Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009138_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+00014264_013.png,Nodule,13,14264,057Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014264_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00024905_000.png,Infiltration,0,24905,062Y,F,PA,2802,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00024905_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010531_009.png,No Finding,9,10531,028Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00010531_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022963_000.png,Infiltration,0,22963,050Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022963_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017985_008.png,Infiltration,8,17985,059Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017985_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015376_024.png,Edema,24,15376,061Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015376_024.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019044_002.png,No Finding,2,19044,035Y,M,PA,2986,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019044_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011702_075.png,Effusion,75,11702,026Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011702_075.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013520_000.png,Infiltration,0,13520,016Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013520_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030636_010.png,Pneumothorax,10,30636,046Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030636_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00001214_000.png,Mass,0,1214,067Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00001214_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00010384_013.png,Pneumothorax,13,10384,017Y,F,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010384_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00004737_016.png,Atelectasis|Consolidation|Infiltration,16,4737,043Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00004737_016.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003868_006.png,No Finding,6,3868,055Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003868_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021006_018.png,Infiltration,18,21006,071Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021006_018.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017188_000.png,Effusion,0,17188,060Y,F,PA,2378,2657,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017188_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021578_000.png,Infiltration,0,21578,054Y,F,PA,2542,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021578_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008342_013.png,Infiltration|Mass|Nodule|Pneumothorax,13,8342,036Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008342_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+00011428_006.png,No Finding,6,11428,054Y,F,PA,2666,2549,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011428_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022528_004.png,Atelectasis|Effusion|Infiltration,4,22528,028Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022528_004.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020826_000.png,Infiltration,0,20826,023Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020826_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003534_036.png,Infiltration,36,3534,022Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00003534_036.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000910_000.png,No Finding,0,910,056Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000910_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018126_007.png,No Finding,7,18126,030Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018126_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002482_004.png,Infiltration,4,2482,057Y,F,PA,2474,2681,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002482_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016732_018.png,Effusion,18,16732,079Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016732_018.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002570_004.png,Atelectasis,4,2570,075Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002570_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013392_001.png,Effusion,1,13392,044Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013392_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011804_000.png,Emphysema|Mass,0,11804,055Y,M,PA,2766,2653,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011804_000.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00018246_000.png,No Finding,0,18246,059Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018246_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00023156_019.png,Emphysema,19,23156,066Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00023156_019.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022572_057.png,Consolidation|Effusion,57,22572,049Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022572_057.png,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030079_032.png,Consolidation,32,30079,016Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030079_032.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019486_000.png,Cardiomegaly,0,19486,049Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019486_000.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018334_004.png,Infiltration|Nodule,4,18334,027Y,F,PA,2322,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018334_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00020018_006.png,No Finding,6,20018,051Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020018_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00000820_003.png,Infiltration,3,820,042Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00000820_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014475_001.png,Effusion,1,14475,036Y,F,PA,2990,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014475_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014125_039.png,Mass,39,14125,028Y,M,PA,2762,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014125_039.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00014525_025.png,No Finding,25,14525,056Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00014525_025.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030636_013.png,Atelectasis|Effusion|Pneumothorax,13,30636,046Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030636_013.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00010749_000.png,Atelectasis,0,10749,054Y,M,PA,2798,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010749_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012891_001.png,Mass,1,12891,050Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012891_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00007781_000.png,No Finding,0,7781,048Y,F,PA,2608,2696,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00007781_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018100_003.png,No Finding,3,18100,057Y,M,PA,2738,2545,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018100_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021711_015.png,Atelectasis|Effusion,15,21711,071Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021711_015.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012184_000.png,Cardiomegaly|Effusion,0,12184,056Y,F,AP,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012184_000.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012687_011.png,Pneumothorax,11,12687,063Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012687_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00029043_002.png,Cardiomegaly,2,29043,073Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029043_002.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005944_000.png,Infiltration,0,5944,033Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005944_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000545_000.png,Effusion|Infiltration,0,545,046Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000545_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019463_000.png,Atelectasis|Nodule,0,19463,058Y,M,PA,2716,2673,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019463_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00025094_000.png,Effusion|Infiltration,0,25094,029Y,F,PA,2450,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00025094_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000127_007.png,Effusion,7,127,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000127_007.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015229_000.png,Atelectasis,0,15229,061Y,M,PA,2854,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015229_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021942_006.png,Edema,6,21942,037Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021942_006.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027657_003.png,Effusion,3,27657,075Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027657_003.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014380_004.png,No Finding,4,14380,051Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014380_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002355_002.png,Pneumothorax,2,2355,068Y,F,PA,2670,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002355_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00018921_016.png,Infiltration|Pneumothorax,16,18921,043Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018921_016.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00017504_062.png,Edema|Emphysema|Infiltration|Pneumonia,62,17504,012Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017504_062.png,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+00017594_002.png,No Finding,2,17594,036Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017594_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00025473_006.png,Effusion|Infiltration,6,25473,024Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025473_006.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004001_001.png,Nodule,1,4001,066Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00004001_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00020259_000.png,Atelectasis|Fibrosis,0,20259,052Y,F,PA,2516,2608,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020259_000.png,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019710_000.png,Infiltration,0,19710,058Y,F,PA,2516,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019710_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013003_041.png,No Finding,41,13003,037Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013003_041.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007857_001.png,No Finding,1,7857,052Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007857_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018006_028.png,Effusion|Mass|Nodule,28,18006,061Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018006_028.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+00010926_000.png,Atelectasis,0,10926,046Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010926_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000627_036.png,Mass,36,627,059Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000627_036.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00012276_017.png,No Finding,17,12276,010Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012276_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012273_001.png,Atelectasis|Effusion|Infiltration,1,12273,061Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012273_001.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001373_010.png,Cardiomegaly|Effusion|Pneumonia,10,1373,058Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00001373_010.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+00008962_001.png,Consolidation,1,8962,062Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00008962_001.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010350_018.png,Infiltration|Mass,18,10350,053Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010350_018.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00026132_019.png,Emphysema,19,26132,029Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026132_019.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002548_002.png,No Finding,2,2548,034Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002548_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021586_000.png,Infiltration,0,21586,026Y,F,PA,2258,2361,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021586_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006588_005.png,No Finding,5,6588,041Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006588_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015530_114.png,Pneumothorax,114,15530,021Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00015530_114.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00013047_001.png,No Finding,1,13047,030Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013047_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017046_014.png,Effusion|Infiltration,14,17046,063Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017046_014.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00024107_000.png,Cardiomegaly,0,24107,028Y,F,PA,2302,2406,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00024107_000.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010992_009.png,Effusion,9,10992,058Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010992_009.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002835_003.png,Pleural_Thickening,3,2835,019Y,M,PA,2718,2677,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00002835_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00008944_003.png,Atelectasis|Infiltration,3,8944,021Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00008944_003.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001998_000.png,Fibrosis,0,1998,058Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00001998_000.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010758_015.png,Atelectasis|Effusion,15,10758,056Y,M,PA,2952,2561,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010758_015.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011731_002.png,No Finding,2,11731,038Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00011731_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013924_003.png,Pneumothorax,3,13924,059Y,F,PA,2498,2513,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013924_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00003951_000.png,No Finding,0,3951,074Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00003951_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020078_001.png,No Finding,1,20078,064Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020078_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002491_007.png,Infiltration,7,2491,057Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002491_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006808_035.png,Cardiomegaly,35,6808,038Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006808_035.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005504_000.png,Atelectasis|Infiltration,0,5504,052Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005504_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000359_006.png,No Finding,6,359,072Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000359_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014792_004.png,Edema|Infiltration,4,14792,057Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014792_004.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010914_009.png,Atelectasis,9,10914,050Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010914_009.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001006_028.png,Infiltration,28,1006,024Y,M,AP,2736,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00001006_028.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010563_016.png,No Finding,16,10563,034Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010563_016.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001373_026.png,Cardiomegaly,26,1373,060Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001373_026.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030439_006.png,No Finding,6,30439,056Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030439_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026975_002.png,Mass|Pleural_Thickening,2,26975,026Y,F,PA,2520,2939,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026975_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+00000682_001.png,Emphysema,1,682,064Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000682_001.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008708_008.png,Emphysema|Fibrosis,8,8708,035Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008708_008.png,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002046_003.png,Pneumothorax,3,2046,065Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002046_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00013884_003.png,Fibrosis,3,13884,047Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013884_003.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018509_002.png,Infiltration,2,18509,065Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018509_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012863_019.png,No Finding,19,12863,040Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012863_019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005119_002.png,No Finding,2,5119,021Y,M,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005119_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008297_001.png,No Finding,1,8297,018Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008297_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018052_003.png,Consolidation,3,18052,059Y,M,PA,2646,2685,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018052_003.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021770_015.png,Pneumothorax,15,21770,007Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021770_015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00000623_009.png,No Finding,9,623,057Y,F,PA,2414,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000623_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026886_010.png,Pneumothorax,10,26886,048Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026886_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00014438_005.png,Nodule,5,14438,054Y,F,PA,2892,2948,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014438_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00011548_019.png,Effusion,19,11548,045Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011548_019.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020951_000.png,Fibrosis|Mass,0,20951,052Y,F,PA,2634,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020951_000.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00029729_000.png,No Finding,0,29729,035Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00029729_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005218_020.png,Nodule,20,5218,038Y,M,AP,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005218_020.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00013606_000.png,Atelectasis,0,13606,075Y,F,PA,2758,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013606_000.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018055_023.png,Pneumothorax,23,18055,064Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00018055_023.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00012413_007.png,Mass,7,12413,043Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012413_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00005641_001.png,Cardiomegaly,1,5641,031Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00005641_001.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001106_000.png,Edema|Fibrosis,0,1106,068Y,F,PA,2590,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00001106_000.png,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019408_000.png,No Finding,0,19408,041Y,M,PA,2990,2971,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019408_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00015081_008.png,No Finding,8,15081,053Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015081_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014844_000.png,Nodule,0,14844,066Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014844_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00010805_036.png,Effusion,36,10805,008Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010805_036.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015078_001.png,Effusion|Pleural_Thickening,1,15078,053Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015078_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00020240_000.png,No Finding,0,20240,042Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020240_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007322_019.png,Atelectasis|Infiltration,19,7322,068Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007322_019.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020405_017.png,Nodule,17,20405,049Y,M,AP,3044,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020405_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00020326_021.png,Effusion,21,20326,027Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020326_021.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021494_018.png,Effusion|Infiltration,18,21494,038Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021494_018.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018000_004.png,Atelectasis|Pneumothorax,4,18000,045Y,F,PA,2770,2869,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018000_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00001547_005.png,No Finding,5,1547,065Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001547_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012834_035.png,Effusion,35,12834,033Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012834_035.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012094_024.png,Atelectasis|Nodule|Pneumothorax,24,12094,063Y,F,PA,2614,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012094_024.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+00009380_010.png,No Finding,10,9380,057Y,F,PA,2538,2809,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00009380_010.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012364_056.png,Atelectasis|Consolidation|Nodule,56,12364,053Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012364_056.png,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00019368_000.png,Infiltration|Nodule,0,19368,059Y,M,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019368_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00015448_002.png,Atelectasis,2,15448,061Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00015448_002.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000743_003.png,No Finding,3,743,070Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000743_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002749_000.png,No Finding,0,2749,025Y,M,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002749_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020505_004.png,No Finding,4,20505,052Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020505_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008303_000.png,Infiltration|Nodule,0,8303,053Y,F,PA,2506,2697,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008303_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00009595_000.png,Cardiomegaly,0,9595,045Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009595_000.png,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00001589_001.png,No Finding,1,1589,054Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001589_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00028249_000.png,No Finding,0,28249,031Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028249_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019087_044.png,Effusion|Pleural_Thickening,44,19087,033Y,M,PA,2670,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019087_044.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00010012_013.png,No Finding,13,10012,053Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010012_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005478_000.png,No Finding,0,5478,054Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005478_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010767_008.png,Atelectasis|Pneumothorax,8,10767,058Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010767_008.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00008748_012.png,Pleural_Thickening,12,8748,050Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00008748_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00000996_002.png,No Finding,2,996,041Y,M,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00000996_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00030323_029.png,Infiltration|Pneumothorax,29,30323,031Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030323_029.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+00004381_038.png,Infiltration,38,4381,026Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00004381_038.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009723_000.png,Nodule,0,9723,051Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009723_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00017835_008.png,Atelectasis,8,17835,047Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017835_008.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026843_001.png,Effusion|Mass,1,26843,058Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026843_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00012021_058.png,Effusion,58,12021,025Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012021_058.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017709_002.png,No Finding,2,17709,026Y,M,PA,2782,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017709_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004844_000.png,No Finding,0,4844,042Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004844_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017613_000.png,No Finding,0,17613,046Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017613_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00023065_002.png,Mass|Nodule,2,23065,049Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00023065_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+00018500_009.png,Nodule|Pleural_Thickening,9,18500,056Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018500_009.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+00019271_058.png,Atelectasis|Infiltration,58,19271,055Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019271_058.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006008_001.png,Consolidation,1,6008,072Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00006008_001.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004605_019.png,Effusion,19,4605,017Y,M,PA,2144,2159,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00004605_019.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017138_053.png,Nodule,53,17138,024Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017138_053.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00018237_035.png,Infiltration,35,18237,031Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018237_035.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007460_000.png,No Finding,0,7460,045Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007460_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00027298_001.png,No Finding,1,27298,059Y,F,PA,2542,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027298_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00001718_002.png,No Finding,2,1718,079Y,F,PA,2544,3056,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00001718_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00028961_003.png,Effusion,3,28961,062Y,F,PA,1831,1884,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00028961_003.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008291_000.png,Infiltration,0,8291,034Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008291_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020385_001.png,Effusion|Infiltration,1,20385,019Y,M,PA,2562,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020385_001.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00023722_002.png,Nodule,2,23722,061Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00023722_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00010672_004.png,Atelectasis|Effusion|Infiltration,4,10672,037Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010672_004.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026836_001.png,No Finding,1,26836,032Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026836_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016579_000.png,Effusion|Nodule,0,16579,065Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016579_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00019593_007.png,No Finding,7,19593,053Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00019593_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00018153_000.png,Infiltration,0,18153,028Y,F,PA,2992,2985,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018153_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018573_001.png,No Finding,1,18573,038Y,F,PA,2638,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018573_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00008230_018.png,Pneumothorax,18,8230,060Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008230_018.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00001993_000.png,Infiltration|Nodule|Pneumonia,0,1993,011Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00001993_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+00026219_000.png,Infiltration,0,26219,059Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026219_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00011723_040.png,Mass,40,11723,066Y,M,AP,3016,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00011723_040.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00018921_024.png,Effusion|Pneumothorax,24,18921,043Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018921_024.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00003230_000.png,Effusion,0,3230,054Y,F,PA,2798,2429,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00003230_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005140_001.png,Pneumothorax,1,5140,061Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00005140_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00014877_013.png,No Finding,13,14877,017Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014877_013.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013982_005.png,No Finding,5,13982,032Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013982_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017920_020.png,No Finding,20,17920,046Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017920_020.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004090_002.png,Edema,2,4090,061Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004090_002.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020648_004.png,Atelectasis|Infiltration,4,20648,054Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020648_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019959_007.png,No Finding,7,19959,050Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019959_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014320_012.png,Effusion|Infiltration,12,14320,024Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014320_012.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030419_001.png,Cardiomegaly|Effusion,1,30419,012Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030419_001.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019184_002.png,No Finding,2,19184,065Y,M,PA,2470,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019184_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005742_001.png,Atelectasis,1,5742,060Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005742_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00008835_002.png,No Finding,2,8835,044Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00008835_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003426_008.png,No Finding,8,3426,058Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00003426_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00017236_063.png,Infiltration,63,17236,046Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00017236_063.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030220_000.png,Infiltration,0,30220,048Y,M,PA,1960,1862,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00030220_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00030786_005.png,Cardiomegaly|Effusion|Emphysema,5,30786,061Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00030786_005.png,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025238_019.png,Infiltration,19,25238,029Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00025238_019.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003296_000.png,Nodule,0,3296,061Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00003296_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00010092_051.png,Mass|Nodule|Pleural_Thickening,51,10092,051Y,F,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010092_051.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+00021843_002.png,No Finding,2,21843,052Y,F,AP,3012,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021843_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016521_008.png,Mass,8,16521,073Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016521_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00016417_009.png,Atelectasis|Effusion|Mass|Pleural_Thickening,9,16417,060Y,M,PA,2766,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016417_009.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+00020020_007.png,Atelectasis|Effusion|Infiltration,7,20020,062Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020020_007.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006315_008.png,Infiltration,8,6315,018Y,M,PA,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006315_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00027757_000.png,No Finding,0,27757,021Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027757_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010723_006.png,No Finding,6,10723,052Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010723_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010785_003.png,Atelectasis|Infiltration|Nodule,3,10785,070Y,M,PA,2846,2825,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010785_003.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00011104_011.png,Effusion,11,11104,061Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00011104_011.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028774_012.png,Nodule,12,28774,068Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028774_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00010176_000.png,Fibrosis|Infiltration,0,10176,073Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00010176_000.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015239_006.png,No Finding,6,15239,017Y,F,PA,2021,2021,0.194311,0.194311,/content/drive/MyDrive/CS 518 Project /images/00015239_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004822_025.png,Atelectasis,25,4822,026Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00004822_025.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00012990_001.png,No Finding,1,12990,041Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012990_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014242_000.png,No Finding,0,14242,032Y,F,PA,2678,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014242_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00022708_006.png,No Finding,6,22708,026Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00022708_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00010812_000.png,No Finding,0,10812,065Y,F,PA,2510,2641,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010812_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011955_000.png,Pleural_Thickening,0,11955,054Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011955_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00005970_006.png,Nodule,6,5970,064Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005970_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00018805_001.png,No Finding,1,18805,049Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00018805_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013572_007.png,Infiltration,7,13572,061Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013572_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002763_002.png,Fibrosis,2,2763,044Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002763_002.png,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004132_006.png,Nodule,6,4132,020Y,M,AP,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004132_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00027498_000.png,Infiltration,0,27498,049Y,M,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027498_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002594_005.png,Infiltration,5,2594,035Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00002594_005.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021201_021.png,Effusion,21,21201,065Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021201_021.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00020705_000.png,Infiltration,0,20705,055Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020705_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000727_002.png,No Finding,2,727,054Y,F,PA,2418,2989,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000727_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012304_006.png,Infiltration,6,12304,018Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00012304_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00016607_018.png,No Finding,18,16607,064Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00016607_018.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00011768_000.png,No Finding,0,11768,056Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00011768_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00016083_005.png,Atelectasis|Infiltration,5,16083,057Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016083_005.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018724_008.png,Edema,8,18724,044Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018724_008.png,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00024728_000.png,No Finding,0,24728,038Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00024728_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00007374_001.png,No Finding,1,7374,040Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00007374_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014452_008.png,Atelectasis|Pleural_Thickening,8,14452,067Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014452_008.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+00016231_005.png,Atelectasis|Effusion,5,16231,043Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00016231_005.png,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00026031_003.png,Infiltration,3,26031,033Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00026031_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021289_000.png,Consolidation|Mass|Nodule|Pneumonia,0,21289,040Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021289_000.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+00027652_007.png,No Finding,7,27652,049Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00027652_007.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00019124_018.png,Nodule,18,19124,052Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00019124_018.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+00018462_001.png,Atelectasis,1,18462,071Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018462_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00017573_000.png,No Finding,0,17573,045Y,M,PA,2704,2272,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017573_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012260_000.png,Infiltration,0,12260,045Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012260_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00014356_012.png,No Finding,12,14356,061Y,F,PA,2850,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00014356_012.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00026911_008.png,Infiltration|Mass,8,26911,010Y,M,PA,2442,2361,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00026911_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+00029813_009.png,Emphysema|Pleural_Thickening|Pneumothorax,9,29813,066Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00029813_009.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+00027213_017.png,Infiltration,17,27213,073Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00027213_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00025423_000.png,Infiltration,0,25423,057Y,F,PA,2992,2989,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00025423_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010297_002.png,No Finding,2,10297,053Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010297_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005391_002.png,No Finding,2,5391,072Y,F,AP,3012,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00005391_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00005712_015.png,Infiltration|Nodule,15,5712,033Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00005712_015.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00020832_004.png,No Finding,4,20832,052Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020832_004.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00002524_013.png,Effusion,13,2524,051Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002524_013.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00004428_002.png,Atelectasis,2,4428,065Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004428_002.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00002119_001.png,No Finding,1,2119,053Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00002119_001.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00020261_002.png,No Finding,2,20261,038Y,F,PA,2450,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00020261_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00023414_000.png,No Finding,0,23414,036Y,M,PA,2048,2500,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00023414_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003029_020.png,No Finding,20,3029,054Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00003029_020.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00021748_000.png,Pneumothorax,0,21748,020Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021748_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00017263_000.png,Effusion|Fibrosis,0,17263,081Y,F,PA,2486,2457,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00017263_000.png,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00003381_001.png,Atelectasis|Infiltration,1,3381,053Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00003381_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00009931_000.png,Effusion|Infiltration,0,9931,069Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00009931_000.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007810_006.png,No Finding,6,7810,039Y,F,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007810_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013917_038.png,Cardiomegaly|Effusion|Infiltration,38,13917,055Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013917_038.png,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00018387_006.png,No Finding,6,18387,057Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00018387_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014203_051.png,Consolidation|Mass,51,14203,031Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014203_051.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00016469_000.png,No Finding,0,16469,066Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00016469_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012884_008.png,Infiltration|Nodule,8,12884,022Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012884_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+00013791_000.png,Hernia|Mass,0,13791,028Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00013791_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00020326_088.png,Edema|Effusion,88,20326,027Y,F,AP,3052,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00020326_088.png,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00028117_000.png,Nodule|Pleural_Thickening,0,28117,024Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00028117_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+00005773_003.png,No Finding,3,5773,035Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005773_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00013341_003.png,No Finding,3,13341,061Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013341_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00003989_020.png,Cardiomegaly|Edema,20,3989,058Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00003989_020.png,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00015715_001.png,Atelectasis,1,15715,061Y,F,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00015715_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007779_004.png,Atelectasis,4,7779,038Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007779_004.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005538_001.png,Atelectasis,1,5538,060Y,F,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005538_001.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00021023_011.png,No Finding,11,21023,017Y,F,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00021023_011.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00012094_048.png,Emphysema|Pneumothorax,48,12094,063Y,F,PA,2586,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00012094_048.png,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00021018_000.png,Infiltration,0,21018,062Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00021018_000.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010752_003.png,No Finding,3,10752,061Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010752_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00023309_018.png,Consolidation|Infiltration,18,23309,067Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00023309_018.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00000872_006.png,Infiltration,6,872,041Y,F,PA,2626,2801,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00000872_006.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00019006_004.png,Effusion,4,19006,078Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00019006_004.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013601_017.png,Infiltration,17,13601,061Y,M,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00013601_017.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00006271_095.png,Infiltration,95,6271,040Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00006271_095.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00005721_003.png,Mass,3,5721,066Y,M,AP,2500,2048,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00005721_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+00000116_019.png,Consolidation,19,116,075Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00000116_019.png,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010481_021.png,Atelectasis,21,10481,044Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010481_021.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00007670_002.png,Pneumothorax,2,7670,046Y,F,AP,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00007670_002.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+00028864_008.png,No Finding,8,28864,050Y,F,PA,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00028864_008.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00014052_003.png,No Finding,3,14052,071Y,M,PA,2500,2048,0.168,0.168,/content/drive/MyDrive/CS 518 Project /images/00014052_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+00004800_003.png,Infiltration,3,4800,045Y,F,PA,2048,2500,0.171,0.171,/content/drive/MyDrive/CS 518 Project /images/00004800_003.png,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00013917_056.png,Atelectasis,56,13917,056Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00013917_056.png,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+00022572_049.png,Edema|Effusion|Infiltration,49,22572,049Y,M,AP,3056,2544,0.139,0.139,/content/drive/MyDrive/CS 518 Project /images/00022572_049.png,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+00010103_010.png,Effusion|Infiltration|Pleural_Thickening,10,10103,071Y,M,PA,2992,2991,0.143,0.143,/content/drive/MyDrive/CS 518 Project /images/00010103_010.png,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
