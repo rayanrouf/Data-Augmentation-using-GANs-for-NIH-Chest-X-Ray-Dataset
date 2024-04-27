@@ -1,6 +1,6 @@
 This repository contains the implementation and training of deep learning models for the diagnosis of lung diseases using Chest X-ray images. The project utilizes a Cycle Generative Adversarial Network (CycleGAN) to augment the NIH Chest X-ray dataset and trains convolutional neural networks (CNNs), including MobileNet and InceptionResNetV2, to classify different lung conditions.
 
-Project Structure
+Project Structure:
 CycleGAN_from_scratch.ipynb: Jupyter notebook with the implementation of CycleGAN for data augmentation.
 Training-mobilenet.ipynb: Jupyter notebook detailing the training process of the MobileNet model.
 Training-resnet.ipynb: Jupyter notebook detailing the training process of the InceptionResNetV2 model.
@@ -13,18 +13,18 @@ train.csv: A CSV file with training data details.
 trained_img_predictions.png: Image showing predictions made by the MobileNet model on test images.
 trained_img_predictions_resnet.png: Image showing predictions made by the InceptionResNetV2 model on test images.
 
-How to Use
+How to Use:
 Clone the repository.
 Open the .ipynb notebooks in a Jupyter environment.
 Run the notebooks to train the models or to generate augmented images with CycleGAN.
 Review the CSV files for dataset details and the .png files for model evaluations.
 
-Requirements
+Requirements:
 Python 3.10
 TensorFlow
 Keras
 
-Acknowledgments
+Acknowledgments:
 NIH Chest X-ray Dataset
 CycleGAN authors
 Contributors to the TensorFlow and Keras libraries
