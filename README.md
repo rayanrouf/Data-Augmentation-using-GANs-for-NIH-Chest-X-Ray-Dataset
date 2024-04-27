@@ -25,6 +25,6 @@ TensorFlow
 Keras
 
 Acknowledgments:
-NIH Chest X-ray Dataset
+NIH Chest X-ray Dataset - https://www.kaggle.com/datasets/nih-chest-xrays/data
 CycleGAN authors
 Contributors to the TensorFlow and Keras libraries
